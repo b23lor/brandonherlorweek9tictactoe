@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\brand\\source\\repos\\cpp-tictactoe\\cpp-tictactoe\\tictactoe.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\brand\\source\\repos\\cpp-tictactoe\\cpp-tictactoe\\game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
